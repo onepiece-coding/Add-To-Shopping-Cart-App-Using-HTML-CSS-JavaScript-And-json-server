@@ -99,7 +99,7 @@ The file structure of this project looks like this:
 
 Watch our tutorial on YouTube for a walkthrough of this project:
 
-🎥 [YouTube Channel Link Here]()
+🎥 [YouTube Channel Link Here](https://www.youtube.com/watch?v=xbyGoAeDgcc&list=PLYSj6xbWtkznrp8ZsNuulbw524fImYQ-n&index=6)
 
 ## 🏆 Contribution Guidelines
 
