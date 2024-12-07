@@ -117,7 +117,7 @@ function reloadCart() {
                             ${cartItem.name}
                         </p>
                         <span class="item-price">
-                            $${cartItem.price}
+                            $${cartItem.price * cartItem.quantity}
                         </span>
                     </div>
                     <form class="quantity-control">
