@@ -35,6 +35,7 @@ This project serves as a tutorial showcasing how to implement a shopping cart wi
 
 ```bash
   git clone https://github.com/onepiece-coding/Add-To-Shopping-Cart-App-Using-HTML-CSS-JavaScript-And-json-server.git
+
   cd Add-To-Shopping-Cart-App-Using-HTML-CSS-JavaScript-And-json-server
 ```
 
@@ -78,13 +79,19 @@ The file structure of this project looks like this:
 
 ```bash
   / project folder
-  │
+
   ├── index.html         # HTML structure for the application.
+
   ├── styles.css         # Application styles.
+
   ├── scripts.js         # JavaScript logic to handle UI interaction.
+
   ├── services.js        # Request Methods - GET, POST, PATCH And DELETE
+
   / DB folder
+
   ├── db.json           # json-server mock database file.
+
   └── json-server config
 ```
 
